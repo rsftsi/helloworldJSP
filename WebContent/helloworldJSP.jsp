@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JC</title>
+<title>J.C.</title>
 </head>
 <body>
-    <%= "Hello World, JESUS is coming. ;-)" %>
+    <%= "Hello World, JESUS is coming!!! ;-)" %>
 </body>
 </html>
