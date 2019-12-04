@@ -1,0 +1,2 @@
+# https://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.wst.webtools.doc.user%2Ftopics%2Fccwebprj.html
+# This directory contains the MANIFEST.MF file, which is used to map class paths for dependent JAR files that exist in other projects in the same Enterprise Application project. An entry in this file will update the run-time project class path and Java build settings to include the referenced JAR files.

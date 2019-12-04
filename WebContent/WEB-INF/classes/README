@@ -1,0 +1,2 @@
+# https://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.wst.webtools.doc.user%2Ftopics%2Fccwebprj.html
+# This directory is for servlets, utility classes, and the Java compiler output directory. The classes in this directory are used by the application class loader to load the classes. Folders in this directory will map package and class names, as in: /WEB-INF/classes/com/mycorp/servlets/MyServlet.class.

@@ -1,0 +1,2 @@
+# https://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.wst.webtools.doc.user%2Ftopics%2Fccwebprj.html
+# The supporting JAR files that your Web application references. Any classes in .jar files placed in this directory will be available for your Web application
