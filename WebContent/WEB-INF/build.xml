@@ -1,6 +1,6 @@
 <!-- Source: https://tcserver.docs.pivotal.io/3x/docs-tcserver/topics/tutwebapp.html -->
 
-<project name="My Project" default="help" basedir=".">
+<project name="My Project" default="help" basedir="../../.">
   <!-- Define the properties used by the build -->
   <property name="jsp.dir.name"  value="helloworldJSP"/>
   <property name="lib.home"      value="${basedir}/WebContent/WEB-INF"/>
