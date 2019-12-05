@@ -1,5 +1,6 @@
-# CI/CD development - Jenkins & wildFly
+# CI/CD development
 
+#Jenkins&WildFly
 
 This is a simple JSP Hello World CI/CD developement.
 
